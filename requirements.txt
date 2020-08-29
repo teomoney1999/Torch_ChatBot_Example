@@ -1,0 +1,5 @@
+torch
+future
+pyopencl
+plaidml-keras
+plaidbench
